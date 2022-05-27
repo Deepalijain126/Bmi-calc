@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Caveat', cursive;
+    font-family: 'Macondo', cursive;
+    text-align: center;
+    background-color: bisque;
+}
+
+.main{
+    display :flex;
+    justify-content: center;
+    align-items: center;
+    
+    flex-direction: column;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 25%;
+    margin-right:25% ;
+    margin-bottom:5% ;
+    border:5px solid red;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px;
+    height: 250px;
+}
+h1{
+   margin-bottom :15px; 
+   color: brown;
+   padding: 10px;
+   text-shadow: 2px 2px pink;
+}
+#btn{
+    width: 200px;
+   
+    margin-bottom: 20px;
+}
